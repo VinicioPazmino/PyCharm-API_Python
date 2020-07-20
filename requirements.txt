@@ -1,0 +1,26 @@
+#Paquetes requeridos para la asignatura Tratamiento de Señales Visuales (GITST-EPS-UAM)
+# Instalar ejecutando "pip install -r requirements.txt"
+# numpy==1.16.4
+# matplotlib==3.0.3
+scikit-image==0.15.0
+scipy==1.3.0
+memory_profiler==0.55.0
+opencv-python==4.1.0.25
+tensorflow==1.14.0
+jupyter==1.0.0
+pandas==0.24.2
+setuptools==41.0.0
+imutils
+
+# paquetes para segmentacion semantica
+cycler==0.10.0
+kiwisolver==1.0.1
+matplotlib==3.0.2
+numpy==1.16.0
+Pillow==6.2.0
+pyparsing==2.3.1
+python-dateutil==2.7.5
+pytz==2018.9
+six==1.12.0
+torch==1.0.0
+torchvision==0.2.1

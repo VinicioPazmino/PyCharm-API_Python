@@ -1,0 +1,4 @@
+// each line contains a camera with the following format:
+// name/fps/width/height/TXRXformat/JPEGquality/positionX/positionY/positionZ/rotationX/rotationY/rotationZ
+// example: camtest/10/640/480/0/75/9.816450/3.844200/15.368404/0.000000/0.000000/0.000000
+demo2_test1/10/640/480/0/75/69.7/10.8/-80.1/5/8.5/0.0
